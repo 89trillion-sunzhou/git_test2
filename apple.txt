@@ -6,3 +6,4 @@ apple
 apple
 apple hot_gix_trouble
 amend
+	ck = checkout
